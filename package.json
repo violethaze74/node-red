@@ -28,7 +28,7 @@
     "dependencies": {
         "acorn": "8.4.1",
         "acorn-walk": "8.1.1",
-        "ajv": "8.6.2",
+        "ajv": "8.11.0",
         "async-mutex": "0.3.2",
         "basic-auth": "2.0.1",
         "bcryptjs": "2.4.3",
